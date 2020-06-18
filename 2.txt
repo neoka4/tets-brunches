@@ -1,7 +1,7 @@
 1. changed in b1
 2. changed in b1
 
-
+first on b1
 added by master
 
 2. changed in b1 and by b1
@@ -13,6 +13,6 @@ added by b1
 bbbbbbbbbbbbb
 
 
-added by first master
-
-addeed by master - 2
+addeed by master - 56378999023487930
+added by first master and by first on b1 ----------------addeed by master - 2
+addeed by master - 56378999023487930
