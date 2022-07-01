@@ -1,0 +1,7 @@
+{
+    "name": "v1634119116/5155626846",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=8.0.14"
+    }
+}
