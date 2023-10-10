@@ -11,3 +11,5 @@ line
 One commit ahead master
 
 tree-2 third
+=======
+tree-1 first
